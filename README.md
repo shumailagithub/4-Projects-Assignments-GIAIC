@@ -14,4 +14,5 @@ https://colab.research.google.com/drive/1oFJIRiGU4SsKIxR-diRgz9orFXvgCaTy?usp=sh
 Project 1
 https://colab.research.google.com/github/shumailagithub/4-Projects-Assignments-GIAIC/blob/main/Project_2.ipynb#scrollTo=KTfUvadNhpCy
 
-
+Project 2 
+https://colab.research.google.com/drive/1L46L5g5DgzW1aNwlk4qlx1tQl49_Nqqt#scrollTo=g4gnsbEQpjRO&line=32&uniqifier=1
