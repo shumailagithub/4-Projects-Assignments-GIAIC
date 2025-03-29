@@ -1,4 +1,4 @@
-# 4-Projects-Assignments-GIAIC
+# Project 4 Assignments-GIAIC
 You can access my google colab project's Nootbooks 
 Assignments
 
