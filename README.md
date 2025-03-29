@@ -10,7 +10,7 @@ Assignments 01
 https://colab.research.google.com/drive/1oFJIRiGU4SsKIxR-diRgz9orFXvgCaTy?usp=sharing
 
 
-Assignments 1 to 6
+Assignments 1 to 6 : 
 Project 1
 https://colab.research.google.com/github/shumailagithub/4-Projects-Assignments-GIAIC/blob/main/Project_2.ipynb#scrollTo=KTfUvadNhpCy
 
